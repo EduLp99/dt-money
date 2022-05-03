@@ -1,6 +1,4 @@
-# dt-money
-
-## Um app de controle financeiro
+# Um app de controle financeiro
 
 
 ## Tecnologias utilizadas: 
